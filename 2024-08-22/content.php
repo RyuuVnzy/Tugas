@@ -1,0 +1,1 @@
+<?php  $gambars = ["k.jpg", "o.png", "n.png"]; $pages = [  "home"=>"index.php", "contact"=>"contact.php", "jurusan"=>"jurusan.php", "sejarah"=>"sejarah.php"]; ?>
