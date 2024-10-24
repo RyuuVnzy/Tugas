@@ -1,0 +1,18 @@
+.rumah {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.kamar {
+    width: 200px;
+    background-color: yellow;
+}
+.taman {
+    width: 200px;
+    background-color: lightgreen;
+}
+.dapur {
+    width: 200px;
+    background-color: red;
+}
